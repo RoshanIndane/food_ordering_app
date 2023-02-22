@@ -1,6 +1,7 @@
 .container {
     height: calc(100vh - 100px);
-    background-color: rgba(235, 41, 41, 0.877);
+    /* background-color: rgba(235, 41, 41, 0.877); */
+    background-color: aliceblue;
     overflow: hidden;
     position: relative;
   }
@@ -14,6 +15,7 @@
     margin: auto;
     cursor: pointer;
     z-index: 2;
+    color: black;
   }
   
   .wrapper {
